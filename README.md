@@ -18,7 +18,7 @@ Progettato per espandere l'esperienza di gioco tramite campagne narrative ("Shad
 
 ## 🚀 Come Iniziare (Installazione Zero-Click)
 
-1. Vai alla sezione Releases a destra e scarica l'ultimo file EliteQuest.exe (o [Clicca QUI per scaricare in automatico EliteQuest.exe](https://github.com/DuskerDark/EliteQuest/releases/latest/download/EliteQuest.exe)).
+1. Vai alla sezione Releases a destra e scarica l'ultimo file EliteQuest.exe (o [Clicca QUI per scaricare in automatico EliteQuest.exe](https://github.com/DuskerDark/EliteQuest/releases/tag/Launcher).
 2. Crea una cartella vuota sul tuo PC (es. `C:\Giochi\EliteQuest`) e spostaci dentro il Launcher.
 3. Avvia `EliteQuest.exe`. 
    *(Nota di sicurezza: Essendo un software indipendente di recente creazione, Windows SmartScreen potrebbe mostrare un avviso blu. Clicca su "Ulteriori informazioni" e poi su "Esegui comunque").*
